@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Lp0T2fJ/i-Color-logs.png" alt="i-Color-logs">
+<img src="https://i.ibb.co/2MWvfJg/i-Color-logs.png" alt="i-Color-logs">
 
 # iColor-Logs
 An easy-to-use console log formatter for JS
