@@ -1,16 +1,16 @@
 Image Here
 
 <h1 style="text-align: center;">
-    <span style="color: red; display: inline;">i</span>
-    <span style="color: blue; display: inline;">C</span>
-    <span style="color: green; display: inline;">o</span>
-    <span style="color: yellow; display: inline;">l</span>
-    <span style="color: purple; display: inline;">o</span>
-    <span style="color: red; display: inline;">r</span>
-    <span style="color: blue; display: inline;">-</span>
-    <span style="color: green; display: inline;">L</span>
-    <span style="color: yellow; display: inline;">o</span>
-    <span style="color: purple; display: inline;">g</span>
-    <span style="color: red; display: inline;">s</span>
+    <span style="color: red;">i</span>
+    <span style="color: blue;">C</span>
+    <span style="color: green;">o</span>
+    <span style="color: yellow;">l</span>
+    <span style="color: purple;">o</span>
+    <span style="color: red;">r</span>
+    <span style="color: blue;">-</span>
+    <span style="color: green;">L</span>
+    <span style="color: yellow;">o</span>
+    <span style="color: purple;">g</span>
+    <span style="color: red;">s</span>
 </h1>
 <p style="width: 100%; text-align: center;">An easy-to-use console log formatter for JS</p>
