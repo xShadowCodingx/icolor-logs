@@ -1,6 +1,6 @@
 const colors = {
     backgrounds: {
-        black: "\u001b[41m",
+        black: "\u001b[40m",
         red: "\u001b[41m",
         green: "\u001b[42m",
         yellow: "\u001b[43m",
