@@ -20,6 +20,26 @@ const themes = {
         attention(text){
             return console.log(colors.foregrounds.magenta + text + colors.foregrounds.reset)
         }
+    },
+    defaultInverted: {
+        error(text){
+            return console.log(colors.backgrounds.red + colors.foregrounds.white + text + colors.foregrounds.reset + colors.backgrounds.reset)
+        },
+        success(text){
+            return console.log(colors.backgrounds.green + colors.foregrounds.white + text + colors.foregrounds.reset + colors.backgrounds.reset)
+        },
+        info(text){
+            return console.log(colors.backgrounds.cyan + colors.foregrounds.white + text + colors.foregrounds.reset + colors.backgrounds.reset)
+        },
+        warning(text){
+            return console.log(colors.backgrounds.yellow + colors.foregrounds.white + text + colors.foregrounds.reset + colors.backgrounds.reset)
+        },
+        log(text){
+            return console.log(colors.backgrounds.blue + colors.foregrounds.white + text + colors.foregrounds.reset + colors.backgrounds.reset)
+        },
+        attention(text){
+            return console.log(colors.backgrounds.magenta + colors.foregrounds.white + text + colors.foregrounds.reset + colors.backgrounds.reset)
+        }
     }
 }
 
