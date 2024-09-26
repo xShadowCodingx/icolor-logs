@@ -1,0 +1,30 @@
+{
+  "name": "icolor-logs",
+  "version": "1.0.0",
+  "description": "iColor-Logs is a log formatting library created by ShadowCoding (Chase Quinn). You can easily set different colors for your logs using the various functions available. It is made to be lightweight and efficient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xShadowCodingx/icolor-logs.git"
+  },
+  "keywords": [
+    "log",
+    "colors",
+    "consolelog",
+    "console",
+    "log",
+    "color",
+    "recolor",
+    "custom",
+    "format"
+  ],
+  "author": "Chase Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xShadowCodingx/icolor-logs/issues"
+  },
+  "homepage": "https://github.com/xShadowCodingx/icolor-logs#readme"
+}
