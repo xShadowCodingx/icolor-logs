@@ -17,8 +17,8 @@ iColor-Logs comes equiped with the universal colors for your logs:
 - Magenta
 - Cyan
 - White
-- Default
-- Reset
+- Default (this is the default color of your terminal)
+- Reset (resets the color)
 
 
 ## Usage
@@ -166,3 +166,9 @@ console.log(icl.cyanBg(icl.white("White text, cyan background")))
 ```
 
 <img src="https://i.ibb.co/KFw8GQs/mixingbgfg.png" alt="iColor-Logs Mixing Foreground and Background Colors">
+
+# Updates
+
+I plan on updating this package as I have time, and as ideas arise for features and functionality.
+
+- **9/27/24**: Edited keywords to reflect what it can work with to make it easier to find.
